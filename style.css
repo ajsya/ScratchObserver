@@ -1,6 +1,7 @@
 body {
-  margin: 2em;
+  margin: 0.0em;
   font-family: 'Roboto', helvetica, sans-serif;
+  background-color: darkgray;
 }
 
 .navbar {
