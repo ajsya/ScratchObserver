@@ -4,6 +4,18 @@ body {
   background-color: lightgray;
 }
 
+h1 {
+  color: white;
+}
+
+p {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
 .navbar {
   background: #636363;
   color: white;
