@@ -1,7 +1,7 @@
 body {
   margin: 0.0em;
   font-family: 'Roboto', helvetica, sans-serif;
-  background-color: lightgray;
+  background-color: #E5E5E5;
 }
 
 h1 {
@@ -17,7 +17,7 @@ a {
 }
 
 .navbar {
-  background: #636363;
+  background: #ffbd59;
   color: white;
   font-size: 20px;
   width: 100%;
